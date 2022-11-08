@@ -1,0 +1,18 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.nav{
+    margin: 8px;
+    padding: 25px;
+    background-color: #0F1111;
+
+}
+
+.nav a {
+    position: relative;
+    top: 0px;
+    color: #fff;
+    text-decoration: none;
+}
